@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", //directory for all js files / output files
+    "rootDir": "./src", //directory for all TS files / source files
+    "target": "ES6",
+    "watch": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    // "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true
+  }
+}
